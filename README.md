@@ -1,2 +1,2 @@
-#Java For Android
+#JavaForAndroid
 Coursera course-Java For Android-module wise assignments
